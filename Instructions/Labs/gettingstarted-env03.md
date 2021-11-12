@@ -12,7 +12,7 @@
 
    ![LabEnvironment](../images/split-window.png)
 
-### Log-in to the Azure portal and verify the pre-deployed resources
+### Log-in to the Azure portal
 
 1. In the LabVM, double click on the **Azure portal** shortcut on the desktop.
 
