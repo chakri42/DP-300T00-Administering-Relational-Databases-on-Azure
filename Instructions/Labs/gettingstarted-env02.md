@@ -6,7 +6,9 @@
    
 1. To get the lab environment details, you can select the Environment Details tab. Additionally, the credentials will also be sent to your email address provided during registration.
 
-   ![LabEnvironment](../images/envdetails-env2.png)
+   ![LabEnvironment](../images/envdetails-env2u.png)
+   
+   **IMPORTANT**- Replace XXXXXX with the *Suffix* value wherever it is mentioned as it is the uniqueID assigned to each user.
 
 1. You can also open the Lab Guide on a separate full window by selecting the **Split Window** button on the bottom right corner.
 
